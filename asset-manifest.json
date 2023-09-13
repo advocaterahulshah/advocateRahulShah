@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/advocateRahulShah/static/css/main.0e212ab3.css",
+    "main.js": "/advocateRahulShah/static/js/main.f61c943c.js",
+    "static/js/787.fdf2ca0d.chunk.js": "/advocateRahulShah/static/js/787.fdf2ca0d.chunk.js",
+    "index.html": "/advocateRahulShah/index.html",
+    "main.0e212ab3.css.map": "/advocateRahulShah/static/css/main.0e212ab3.css.map",
+    "main.f61c943c.js.map": "/advocateRahulShah/static/js/main.f61c943c.js.map",
+    "787.fdf2ca0d.chunk.js.map": "/advocateRahulShah/static/js/787.fdf2ca0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e212ab3.css",
+    "static/js/main.f61c943c.js"
+  ]
+}
