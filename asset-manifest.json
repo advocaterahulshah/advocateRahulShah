@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0e212ab3.css",
-    "main.js": "/static/js/main.00bfc61b.js",
-    "static/js/787.fdf2ca0d.chunk.js": "/static/js/787.fdf2ca0d.chunk.js",
-    "static/media/profile.jpeg": "/static/media/profile.8c55394a98c7001843db.jpeg",
-    "index.html": "/index.html",
-    "main.0e212ab3.css.map": "/static/css/main.0e212ab3.css.map",
-    "main.00bfc61b.js.map": "/static/js/main.00bfc61b.js.map",
-    "787.fdf2ca0d.chunk.js.map": "/static/js/787.fdf2ca0d.chunk.js.map"
+    "main.css": "/advocateRahulShah/static/css/main.0e212ab3.css",
+    "main.js": "/advocateRahulShah/static/js/main.cd91e221.js",
+    "static/js/787.fdf2ca0d.chunk.js": "/advocateRahulShah/static/js/787.fdf2ca0d.chunk.js",
+    "static/media/profile.jpeg": "/advocateRahulShah/static/media/profile.8c55394a98c7001843db.jpeg",
+    "index.html": "/advocateRahulShah/index.html",
+    "main.0e212ab3.css.map": "/advocateRahulShah/static/css/main.0e212ab3.css.map",
+    "main.cd91e221.js.map": "/advocateRahulShah/static/js/main.cd91e221.js.map",
+    "787.fdf2ca0d.chunk.js.map": "/advocateRahulShah/static/js/787.fdf2ca0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e212ab3.css",
-    "static/js/main.00bfc61b.js"
+    "static/js/main.cd91e221.js"
   ]
 }
