@@ -11,6 +11,7 @@ import {
   Text,
 } from "@chakra-ui/react";
 import React from "react";
+import profileImage from "./Images/profile.jpeg";
 
 const TopContent: React.FC = () => {
   return (
@@ -30,7 +31,7 @@ const TopContent: React.FC = () => {
             <Image
               w={"100%"}
               objectFit={"cover"}
-              src={"../../../Images/profile.jpeg"}
+              src={profileImage}
               h={{ base: "auto", md: "450px", lg: "450px" }}
             />
           </Box>

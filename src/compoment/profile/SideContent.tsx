@@ -1,6 +1,10 @@
 import { Box, Image, Link, VStack } from "@chakra-ui/react";
 import React from "react";
 
+import fb from "./Images/fb.png";
+import linkedin from "./Images/in.png";
+import twitter from "./Images/twitter.png";
+
 const SideContent: React.FC = () => {
   return (
     <Box
@@ -11,13 +15,13 @@ const SideContent: React.FC = () => {
     >
       <VStack>
         <Link href="https://www.facebook.com/" isExternal>
-          <Image src={"../../../Images/fb.png"} />
+          <Image src={fb} />
         </Link>
         <Link href="https://www.linkedin.com/" isExternal>
-          <Image src={"../../../Images/in.png"} />
+          <Image src={linkedin} />
         </Link>
         <Link href="https://twitter.com/" isExternal>
-          <Image src={"../../../Images/twitter.png"} />{" "}
+          <Image src={twitter} />{" "}
         </Link>
       </VStack>
     </Box>
